@@ -1,2 +1,4 @@
 git init [initializing git]
 git status [status check]
+git add
+git commit
